@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahrar Ali Soomro</h1>
 <h3 align="center">Student of Software Engineering</h3>
-<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3DsW-Kv1H997QcNonKzNYR&ust=1696184704996000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjizsz60oEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src"E:\4th semester\html css and js practice programm\68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4.gif">
 
 - 🌱 I’m currently learning **Web Development , Computer Networks, Software Design & Architechture etc**
 
