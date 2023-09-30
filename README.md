@@ -1,3 +1,4 @@
+![logo](https://github.com/ahraralisoomro/ahraralisoomro/blob/main/githubbanner.jpg)
 <h1 align="center">Hi 👋, I'm Ahrar Ali Soomro</h1>
 <h3 align="center">Student of Software Engineering</h3>
 
