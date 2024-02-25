@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/ahraralisoomro/ahraralisoomro/blob/main/gifahr.gif?raw=true"> 
 
-- 🌱 I’m currently learning **Web Development , Computer Networks, Software Design & Architechture etc**
+- 🌱 I’m currently learning **Web Development , Computer Networks, Software Design & Architechture App Development , Software Construction , Android App Development**
 
 - 👨‍💻 All of my projects are available at [github/ahraralisoomro](github/ahraralisoomro)
 
